@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Users\Administrator\CLionProjects\lkey_no_RT -B C:\Users\Administrator\CLionProjects\lkey_no_RT\cmake-build-debug
+Build type: Debug
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/Administrator/CLionProjects/lkey_no_RT/cmake-build-debug

@@ -1,0 +1,8 @@
+C:/Users/Administrator/CLionProjects/lkey_no_RT/cmake-build-debug/CMakeFiles/lkey.dir
+C:/Users/Administrator/CLionProjects/lkey_no_RT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/CLionProjects/lkey_no_RT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/CLionProjects/lkey_no_RT/cmake-build-debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/Administrator/CLionProjects/lkey_no_RT/cmake-build-debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/CLionProjects/lkey_no_RT/cmake-build-debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/CLionProjects/lkey_no_RT/cmake-build-debug/tinyusb/src/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/CLionProjects/lkey_no_RT/cmake-build-debug/tinyusb/src/CMakeFiles/rebuild_cache.dir
