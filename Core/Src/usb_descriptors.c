@@ -77,9 +77,17 @@ uint8_t const* tud_descriptor_device_cb(void)
 
 uint8_t const desc_hid_report[] =
 {
-    TUD_HID_REPORT_DESC_KEYBOARD(HID_REPORT_ID(REPORT_ID_KEYBOARD ))
+    0x06, 0x00, 0xFF, // 使用自定义的使用页
+    0x09, 0x01, // 使用 (Vendor-defined)
+    0xA1, 0x01, // COLLECTION (Application)
+    0x85, 0x01, // REPORT_ID (1)
+    0x15, 0x00, // LOGICAL_MINIMUM (0)
+    0x26, 0xFF, 0x00, // LOGICAL_MAXIMUM (255)
+    0x75, 0x08, // REPORT_SIZE (8 bits)
+    0x95, 0x64, // REPORT_COUNT (最大JSON字符串长度)
+    0x81, 0x02, // INPUT (Data, Variable, Absolute)
+    0xC0 // END_COLLECTION
 };
-
 
 
 // Invoked when received GET HID REPORT DESCRIPTOR
